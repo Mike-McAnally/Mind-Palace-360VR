@@ -12,8 +12,8 @@ HOW TO USE: Use your controller left thumb stick or pad to move the interface an
 Also notice the shadow of the tripod for the 360 camera on the rock in the screen shot above and the VR button in the bottom right hand corner used to enter VR with your headset
 
 
-4 Orb DEMO:
+DEMO: 4 Orb 
 https://rocketvirtual.com/A-Frame_WebXR/MP360VR.html
 
-8 Orb DEMO:
+DEMO: 8 Orb 
 https://rocketvirtual.com/A-Frame_WebXR/MindPalace360VR.html
